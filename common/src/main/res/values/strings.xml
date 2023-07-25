@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="retry">Retry</string>
+    <string name="there_is_an_error_please_try_again">There is an error Please try again</string>
+</resources>
