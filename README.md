@@ -25,6 +25,7 @@ The application also adheres to Clean Architecture principles and is structured 
 - **Architecture:** Follows the MVI (Model-View-Intent) architecture pattern for robustness and maintainability. Adheres to Clean Architecture principles.
 - **Multi-Module:** Organizes the codebase into separate modules for better maintainability and scalability.
 - **Kotlin Coverage:** Achieves 100% Kotlin coverage across the entire codebase.
+- **XML UI Development:** The app's user interface is crafted using XML layouts, prioritizing flexibility and maintainability in design.
 - **Coroutines:** Utilizes Coroutines for managing asynchronous operations, ensuring smooth app performance.
 - **Room DB:** Integrates Room DB for local data storage, enabling offline access and improved performance.
 - **Retrofit:** Implements Retrofit for network requests and seamless communication with the backend server.
