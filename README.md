@@ -3,7 +3,7 @@
 ## Overview
 
 ProductApp is an Android application designed to manage product information for users.
-The project is written entirely in Kotlin and follows the MVI (Model-View-Intent) architecture pattern. It leverages modern technologies such as Coroutines for asynchronous operations, Room DB for local storage, Retrofit for network requests, and includes comprehensive unit tests.
+The project is written entirely in Kotlin and follows the MVI (Model-View-Intent) architecture pattern. It leverages modern technologies such as Coroutines for asynchronous operations, Room DB for local storage, and Retrofit for network requests, and includes comprehensive unit tests.
 The application also adheres to Clean Architecture principles and is structured as a multi-module project for better maintainability and scalability.
 
 ## Screens
@@ -26,8 +26,9 @@ The application also adheres to Clean Architecture principles and is structured 
 - **Multi-Module:** Organizes the codebase into separate modules for better maintainability and scalability.
 - **Kotlin Coverage:** Achieves 100% Kotlin coverage across the entire codebase.
 - **XML UI Development:** The app's user interface is crafted using XML layouts, prioritizing flexibility and maintainability in design.
+- **View Binding:** Integrated to enhance the efficiency and readability of my project's UI code
 - **Coroutines:** Utilizes Coroutines for managing asynchronous operations, ensuring smooth app performance.
 - **Room DB:** Integrates Room DB for local data storage, enabling offline access and improved performance.
 - **Retrofit:** Implements Retrofit for network requests and seamless communication with the backend server.
-- **Unit Testing:** Includes comprehensive unit tests covering critical components and functionalities.
+- **Unit Testing:** Wrote unit tests using Mockito and JUnit to ensure the reliability and stability of the app's functionality.
 
